@@ -17,3 +17,4 @@ fun main() {
     """.trimIndent())
     //Độ dài cạnh huyền của tam giác vuông cân có cạnh bằng 2
 }
+
